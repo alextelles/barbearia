@@ -1,4 +1,4 @@
-# goBarber
+# Aplicação barbearia
 
 ## Instalar as dependencias.
 
